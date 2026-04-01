@@ -1,0 +1,5 @@
+install openai 
+install langchain
+install streamlit
+python-dotenv package
+download pyPDF2
